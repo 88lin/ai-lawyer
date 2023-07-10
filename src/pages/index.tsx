@@ -267,11 +267,11 @@ export default function Home() {
         </div>
         <Footer className={styles.footer}>
           {" "}
-          <a href="https://ai.mcbbs.gq/" target="_blank">
+          <a href="https://ai.88lin.eu.org" target="_blank">
             ChatGPT
           </a>
           {" | "}
-          <a href="https://999.zeabur.app/" target="_blank">
+          <a href="88lin.eu.org" target="_blank">
             个人博客
           </a>
         </Footer>
