@@ -271,7 +271,7 @@ export default function Home() {
             ChatGPT
           </a>
           {" | "}
-          <a href="88lin.eu.org" target="_blank">
+          <a href="https://88lin.eu.org/" target="_blank">
             个人博客
           </a>
         </Footer>
