@@ -44,8 +44,8 @@ function Notices() {
           <Modal.Title>捐赠者列表</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          {SPONSORS_LIST.map((Rewarder) => (
-            <p>{`@${Rewarder}`}</p>
+          {SPONSORS_LIST.map((rewarder) => (
+            <p key={rewarder}>{`@${rewarder}`}</p>
           ))}
         </Modal.Body>
       </Modal>
