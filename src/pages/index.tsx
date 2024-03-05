@@ -272,6 +272,10 @@ export default function Home() {
           <a href="https://twitter.com/imyuanx" target="_blank">
             Twitter
           </a>
+          {" | "}
+          <a href="https://openai.ehco-relay.cc" target="_blank">
+            感谢 openai.ehco-relay.cc
+          </a>
         </Footer>
       </main>
     </>
