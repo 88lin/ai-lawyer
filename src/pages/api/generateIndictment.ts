@@ -4,7 +4,7 @@ import { createParser } from "eventsource-parser";
 import { NextResponse } from "next/server";
 import type { NextFetchEvent, NextRequest } from "next/server";
 
-const OPENAI_API_BASE_DEFAULT = "https://api.openai.com/v1/completions";
+const OPENAI_API_BASE_DEFAULT = "https://free.eqing.tech/v1/completions";
 const OPENAI_API_BASE =
   (process.env.OPENAI_API_BASE as string) || OPENAI_API_BASE_DEFAULT;
 
