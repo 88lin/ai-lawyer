@@ -35,7 +35,7 @@ function Notices() {
       {
         "大家好！我是袁先。很高兴这个项目能够帮助到大家。目前，AI 维权律师每天为大家生成 200+ 封起诉书，但是这也意味着耗费数十万的 tokens。由于运营成本较高，不得不做出一些限制：每日提供最高 5 美元额度的服务，用完后会暂停服务，直到次日 10 点左右再次恢复（特殊情况除外）。同时，也开通了捐赠渠道，希望大家能支持这个项目，让更多人可以长期受益。谢谢！"
       }
-      <a href="/reward.jpg">👉 点击捐赠 ❤️</a>
+      <a href="https://88lin.github.io/fireworks/1.html">👉 点击捐赠 ❤️</a>
       <a onClick={openSponsorsList}>{" 捐赠列表 ❤️"}</a>
       <Modal open={isOpen} onClose={openSponsorsList}>
         <Modal.Header>
@@ -264,17 +264,17 @@ export default function Home() {
           />
         </div>
         <Footer className={styles.footer}>
-          {"yuanx @ "}
-          <a href="https://github.com/imyuanx" target="_blank">
-            GitHub
+          {""}
+          <a href="https://88lin.eu.org" target="_blank">
+            个人博客
           </a>
           {" | "}
-          <a href="https://twitter.com/imyuanx" target="_blank">
-            Twitter
+          <a href="https://ai.accn.link" target="_blank">
+            ChatGPT
           </a>
           {" | "}
-          <a href="https://openai.ehco-relay.cc" target="_blank">
-            感谢 openai.ehco-relay.cc
+          <a href="https://yyyy.gay/about" target="_blank">
+            关于
           </a>
         </Footer>
       </main>
