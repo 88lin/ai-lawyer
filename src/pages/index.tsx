@@ -269,11 +269,11 @@ export default function Home() {
             个人博客
           </a>
           {" | "}
-          <a href="https://ai.accn.link" target="_blank">
+          <a href="https://pro.gleeze.com/article/34" target="_blank">
             ChatGPT
           </a>
           {" | "}
-          <a href="https://yyyy.gay/about" target="_blank">
+          <a href="https://pro.gleeze.com/about" target="_blank">
             关于
           </a>
         </Footer>
